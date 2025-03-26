@@ -46,11 +46,13 @@ Training/validation logs and per-class accuracy CSV will also be saved
 
 ##  📈 Performance Snapshot
 
-|Metric|	Value|
-|-----|------|------|
-Best |Val Accuracy|	85.3%
-Epoch| Achieved	|25
-Model |Parameters|	~23.5M
+| Metric            | Value   |
+|-------------------|---------|
+| Best Val Accuracy | 85.3%   |
+| Epoch Achieved    | 25      |
+| Model Parameters  | ~23.5M  |
+
+
 
 Worst-performing classes (example):
 ```python
