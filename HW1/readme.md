@@ -46,8 +46,8 @@ Training/validation logs and per-class accuracy CSV will also be saved
 
 ##  📈 Performance Snapshot
 
-|Metric|	Value
-|-----|------|
+|Metric|	Value|
+|-----|------|------|
 Best |Val Accuracy|	85.3%
 Epoch| Achieved	|25
 Model |Parameters|	~23.5M
