@@ -1,0 +1,29 @@
+Brotli @ file:///croot/brotli-split_1714483155106/work
+certifi @ file:///croot/certifi_1725551672989/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+idna @ file:///croot/idna_1714398848350/work
+lightning-utilities==0.11.9
+markdown-it-py==3.0.0
+mdurl==0.1.2
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+opencv-python==4.11.0.86
+packaging==24.2
+pandas==2.0.3
+pillow @ file:///croot/pillow_1721059439630/work
+Pygments==2.19.1
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil==2.9.0.post0
+pytz==2025.2
+requests @ file:///croot/requests_1721410876868/work
+rich==14.0.0
+six==1.17.0
+torch==1.12.1
+torchaudio==0.12.1
+torchmetrics==1.5.2
+torchvision==0.13.1
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+tzdata==2025.2
+urllib3 @ file:///croot/urllib3_1727769808118/work
