@@ -1,7 +1,7 @@
 # NYCU Computer Vision 2025 Spring - HW2
 
 **Student ID:** 313554033  
-**Name:** 許晴翎  
+**Name:** 許晴鈞  
 
 ---
 
