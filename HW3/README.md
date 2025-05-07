@@ -1,7 +1,8 @@
 # Medical Cell Instance Segmentation
 
 This repository contains an implementation of an instance segmentation pipeline for four types of medical cells using **Mask R-CNN** with a **ResNet50-FPN** backbone. The project includes data preprocessing, model training, COCO-style evaluation, and inference scripts.
-
+ID：313554033
+Name：許晴鈞
 ---
 
 ## 📂 Repository Structure
