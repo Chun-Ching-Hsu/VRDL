@@ -6,7 +6,7 @@ Name：許晴鈞
 This repository contains my implementation for the VRDL 2024 Homework 4: Image Restoration, using a Prompt-based Image Restoration (PromptIR) neural network. The code is based on PyTorch Lightning and supports multi-GPU training.
 
 ## 📂 Directory Structure
-
+```bash
 ├── net/
 │ └── model.py # PromptIR model definition
 ├── utils/
@@ -19,6 +19,7 @@ This repository contains my implementation for the VRDL 2024 Homework 4: Image R
 │ └── degraded/ # Test degraded images (input)
 ├── train_ckpt/ # Saved model checkpoints (.ckpt)
 ├── README.md
+```
 
 ## 🚀 Quick Start
 

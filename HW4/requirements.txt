@@ -1,0 +1,8 @@
+torch>=1.10
+torchvision
+pillow
+numpy
+matplotlib
+tqdm
+pytorch-lightning
+wandb
