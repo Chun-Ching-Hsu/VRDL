@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 epochs = np.arange(1, 21)  # 20 epochs
 
-# 產生模擬數據 (長度都要20)
+# 產生測試數據 (長度都要20)
 train_loss = np.exp(-epochs / 15) + 0.03 * np.random.randn(20)
 val_loss = np.exp(-epochs / 13) + 0.035 * np.random.randn(20) + 0.05
 val_psnr = 20 + 8 * (1 - np.exp(-epochs / 18)) + 0.4 * np.random.randn(20)
